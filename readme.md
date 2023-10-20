@@ -1,3 +1,3 @@
-#Walmart WebScrapper App
+#Walmart WebScrapper Project SDN391
 
-This app is used to track the walmart products stock and prices.
+Design By Hieu dep trai team
